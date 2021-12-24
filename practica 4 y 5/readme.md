@@ -1,0 +1,2 @@
+# Consideraciones para las prácticas 4 y 5
+Para esta práctica se necesitan los archivos 20--PPH.xls desde el año 2010 hasta el año 2019, estos archivos los puedes encontrar en este [link.](http://www.aire.cdmx.gob.mx/default.php?opc=%27aKBk%27)
